@@ -1,3 +1,0 @@
-exports.default = {
-    name: 'Petter'
-};
